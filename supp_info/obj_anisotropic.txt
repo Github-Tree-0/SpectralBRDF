@@ -1,0 +1,11 @@
+aniso_brushed_aluminium_1
+aniso_copper_sheet
+aniso_green_pvc
+aniso_metallic_paper_copper
+aniso_metallic_paper_gold
+aniso_miro_7
+aniso_morpho_melenaus
+aniso_sari_silk_2color
+ilm_aniso_darth_vader_pants
+ilm_aniso_tarkin_tunic
+weta_brushed_steel_satin_pink

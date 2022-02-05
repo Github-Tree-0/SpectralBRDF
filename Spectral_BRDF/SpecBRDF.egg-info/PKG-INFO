@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: SpecBRDF
+Version: 0.0.1
+Summary: A spectral BRDF wrapper using pybind11 and CMake
+Home-page: UNKNOWN
+Author: heng
+Author-email: heng.guo@ist.osaka-u.ac.jp
+License: UNKNOWN
+Platform: UNKNOWN
+
+UNKNOWN
+

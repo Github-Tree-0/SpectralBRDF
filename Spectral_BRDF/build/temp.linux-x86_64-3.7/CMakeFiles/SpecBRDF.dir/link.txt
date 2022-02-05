@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -DVERSION_INFO=\"0.0.1\" -O3 -DNDEBUG -shared  -o ../lib.linux-x86_64-3.7/SpecBRDF.cpython-37m-x86_64-linux-gnu.so CMakeFiles/SpecBRDF.dir/src/SpecBRDF.cpp.o  -flto 
